@@ -18,4 +18,4 @@ Open the catalogue.html file in your browser and use the navigation bar at the t
 Usr the project to order Culture Lab Kombucha
 
 ##Credits
-Developed by Byron Devin from[Lost at Sea Marketing](http://lostatseamarketing.com)
+Developed by Byron Devin from [Lost at Sea Marketing](http://lostatseamarketing.com)
