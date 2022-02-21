@@ -15,14 +15,14 @@ It is not a functional webpage and is rather an UI demonstration that was aimed 
 1. Usage
 1. Credits
 
-<!-- More descriptive -->
-
 ##Installation instructions
 Gain acces to the "Byron Devin-119886" Dropbox file owned by HyperionDev. 
 
 Navigate to the following file "Byron Devin-119886/Web Development Essentials/Task 6/Task6OnlineStore"
 
-Open the catalogue.html file in your browser 
+Open the catalogue.html file in your browser. Once the page has loaded you will have acces full access to all resources.
+    -See screenshot for an example of what your page should look like:(https://www.awesomescreenshot.com/image/22630775?key=9fa7dfe1b149ad667f255c3117d57c10)
+
 
 ##Usage
 The project does not have a real-world use. However, if this were a real catalogue page on a functional e-commerce site, the page woudl be used to:
